@@ -27,7 +27,7 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Read about SPDX specification.
 	2. Look into existing applications like SW360.
 	3. Work on the proposal.
-	4. Discuss about the database schema.
+	4. Discuss the database schema.
 2. #### May 5, 2018
     * ##### Worked on
 	1. Update proposal.
@@ -42,11 +42,11 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Update [personal blog](https://gopuvenkat.github.io/).
     * ##### Next Steps
 	1. Set up day to day journal.
-	2. Discuss about "products".
+	2. Discuss "products".
 4. #### May 7, 2018
     * ##### Worked on
-	1. Discuss on database schema in regards to "products" and "complex components".
-	2. Discuss on license implementation.
+	1. Discuss database schema in regards to "products" and "complex components".
+	2. Discuss license implementation.
     * ##### Next Steps
 	1. Update database schema.
 	2. Read about Relationships between [SPDX Elements](https://spdx.org/spdx-specification-21-web-version#h.apg85dj5o8wx).
