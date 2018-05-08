@@ -50,3 +50,11 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * ##### Next Steps
 	1. Update database schema.
 	2. Read about Relationships between [SPDX Elements](https://spdx.org/spdx-specification-21-web-version#h.apg85dj5o8wx).
+5. #### May 8, 2018
+    * ##### Worked on
+	1. Discuss about script to populate the database / update proposal
+	2. Read about Relationships between SPDX Elements
+	3. Read about [Sphnix](http://www.sphinx-doc.org/en/master/)
+    * ##### Next Steps
+	1. Setup pylint
+	2. Setup development environment
