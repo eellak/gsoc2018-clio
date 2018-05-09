@@ -58,3 +58,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * ##### Next Steps
 	1. Setup pylint
 	2. Setup development environment
+6. #### May 9, 2018
+    * ##### Worked on
+	1. Setting up development environment
+    * ##### Next Steps
+	1. Setup pylint
+	2. Discuss database schema
