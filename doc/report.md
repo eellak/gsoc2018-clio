@@ -68,6 +68,13 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * ##### Worked on
 	1. Setting up development environment
 	2. Discuss database schema
-    * #### Next Steps
+    * ##### Next Steps
 	1. Setup pylint
 	2. Read about python docstring, sphinx
+8. #### May 11, 2018
+    * ##### Worked on
+	1. Discuss database schema
+	2. Update proposal
+	3. Read about python docstring/sphinx
+    * ##### Next Steps
+	1. Setup pylint
