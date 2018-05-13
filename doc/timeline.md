@@ -1,9 +1,9 @@
 # Timeline
 
 ### Community Bonding Peiod (April 23 - May 14)
-- [ ] Getting to know fellow developers and GFOSS.
-- [ ] Get accustomed to SPDX specifications.
-- [ ] Discuss about the database schema and the visual index.
+- [x] Getting to know fellow developers and GFOSS.
+- [x] Get accustomed to SPDX specifications.
+- [x] Discuss about the database schema and the visual index.
 
 ### Week 1 (May 14 - May 20)
 - [ ] Complete reading about SPDX specifications.
