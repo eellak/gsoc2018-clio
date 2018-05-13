@@ -78,3 +78,14 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	3. Read about python docstring/sphinx
     * ##### Next Steps
 	1. Setup pylint
+9. #### May 12, 2018
+    * ##### Worked on
+	1. Discuss about database schema
+    * ##### Next Steps
+	1. Finalize timeline
+10. #### May 13, 2018
+    * ##### Worked on
+	1. Discuss proposal and timeline
+    * ##### Next Steps
+	1. Get started with model creation
+	2. Update blog
