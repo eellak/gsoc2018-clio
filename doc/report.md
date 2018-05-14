@@ -89,3 +89,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * ##### Next Steps
 	1. Get started with model creation
 	2. Update blog
+11. #### May 14, 2018
+    * ##### Worked on
+	1. Update blog
+	2. Started off with model creation - Component
+    * ##### Next Steps
+	1. Work on model creation
