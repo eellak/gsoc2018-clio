@@ -95,3 +95,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Started off with model creation - Component
     * ##### Next Steps
 	1. Work on model creation
+12. #### May 15, 2018
+    * ##### Worked on
+	1. Model creation
+    * ##### Next Steps
+	1. Read about writing test suites
