@@ -102,8 +102,15 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Read about writing test suites
 13. #### May 16, 2018
     * ##### Worked on
-	1. [Pull Request](https://github.com/eellak/clio/pull/2)
+	1. [https://github.com/eellak/clio/pull/2](https://github.com/eellak/clio/pull/2)
 	2. Read about writing test suites
     * ##### Next Steps
 	1. Read about test suites
 	2. Work on the Flask Server and the UI/pages
+14. #### May 17, 2018
+    * ##### Worked on
+	1. Setup license, component and product page
+	2. Read about test suites
+	3. Update [https://github.com/eellak/clio/pull/2](https://github.com/eellak/clio/pull/2)
+    * ##### Next Steps
+	1. Read about test suites
