@@ -114,3 +114,13 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	3. Update [https://github.com/eellak/clio/pull/2](https://github.com/eellak/clio/pull/2)
     * ##### Next Steps
 	1. Read about test suites
+15. #### May 18, 2018
+    * ##### Worked on
+	1. Read about test suites
+    * ##### Next steps
+	1. Work on the PR
+16. #### May 20, 2018
+    * ##### Worked on
+	1. Update [https://github.com/eellak/clio/pull/2](https://github.com/eellak/clio/pull/2)
+    * ##### Next Steps
+	1. Get started with database population
