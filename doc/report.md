@@ -124,3 +124,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Update [https://github.com/eellak/clio/pull/2](https://github.com/eellak/clio/pull/2)
     * ##### Next Steps
 	1. Get started with database population
+17. #### May 21, 2018
+    * ##### Worked on
+	1. Update [https://github.com/eellak/clio/pull/2](https://github.com/eellak/clio/pull/2)
+    * ##### Next Steps
+	1. Get started with database population
