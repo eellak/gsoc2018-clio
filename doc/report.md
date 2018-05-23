@@ -135,3 +135,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Started with porting to Semantic-UI
     * ##### Next Steps
 	1. Work on the UI - Semantic UI, Datatables
+19. #### May 23, 2018
+    * ##### Worked on
+	1. Initial port to Semantic UI - [https://github.com/gopuvenkat/clio/tree/semantic-UI](https://github.com/gopuvenkat/clio/tree/semantic-UI)
+    * ##### Next Steps
+	1. Port to Semantic UI
