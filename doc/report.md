@@ -143,5 +143,7 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 20. #### May 24, 2018
     * ##### Worked on
 	1. Complete port to Semantic UI - [https://github.com/gopuvenkat/clio/tree/semantic-UI](https://github.com/gopuvenkat/clio/tree/semantic-UI)
+	2. Merged Pull Request #2 : [https://github.com/eellak/clio/pull/2](https://github.com/eellak/clio/pull/2)
+	3. Create Pull Request #3 - port to Semantic UI : [https://github.com/eellak/clio/pull/3](https://github.com/eellak/clio/pull/3)
     * ##### Next Steps
 	1. Work on script to populate the database
