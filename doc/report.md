@@ -147,3 +147,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	3. Create Pull Request #3 - port to Semantic UI : [https://github.com/eellak/clio/pull/3](https://github.com/eellak/clio/pull/3)
     * ##### Next Steps
 	1. Work on script to populate the database
+21. #### May 25, 2018
+    * ##### Worked on
+	1. Populate license table - [https://github.com/gopuvenkat/clio/commit/792844834800103443fe0beabaeebc0a0a213ad4](https://github.com/gopuvenkat/clio/commit/792844834800103443fe0beabaeebc0a0a213ad4)
+    * Next Steps
+	1. Populate component table
