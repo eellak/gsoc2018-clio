@@ -152,3 +152,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Populate license table - [https://github.com/gopuvenkat/clio/commit/792844834800103443fe0beabaeebc0a0a213ad4](https://github.com/gopuvenkat/clio/commit/792844834800103443fe0beabaeebc0a0a213ad4)
     * Next Steps
 	1. Populate component table
+22. #### May 26, 2018
+    * ##### Worked on
+	1. Populate component, product and middle tables
+    * ##### Next Steps
+	1. Cleanup `semantic-UI` branch
+	2. Setup README for `dataset` folder
