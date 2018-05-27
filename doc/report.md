@@ -158,3 +158,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * ##### Next Steps
 	1. Cleanup `semantic-UI` branch
 	2. Setup README for `dataset` folder
+23. #### May 27, 2018
+    * ##### Worked on
+	1. Raise Pull Request #4 - populate database : [https://github.com/eellak/clio/pull/4](https://github.com/eellak/clio/pull/4)
+    * ##### Next Steps
+	1. Get started with the setup of Flask server to allow creation of components
+	2. Update blog
