@@ -164,3 +164,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * ##### Next Steps
 	1. Get started with the setup of Flask server to allow creation of components
 	2. Update blog
+24. #### May 28, 2018
+    * ##### Worked on
+	1. Update blog
+	2. Update Pull Request #3 - port to Semantic UI : [https://github.com/eellak/clio/pull/3](https://github.com/eellak/clio/pull/3)
+    * ##### Next Steps
+	1. Setup Flask server to permit creation of components
