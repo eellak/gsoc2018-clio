@@ -170,3 +170,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Update Pull Request #3 - port to Semantic UI : [https://github.com/eellak/clio/pull/3](https://github.com/eellak/clio/pull/3)
     * ##### Next Steps
 	1. Setup Flask server to permit creation of components
+25. #### May 29, 2018
+    * ##### Worked on
+	1. Pull Request #7 - add license info in all files : [https://github.com/eellak/clio/pull/7](https://github.com/eellak/clio/pull/7)
+	2. Pull Request #8 - Document Software : [https://github.com/eellak/clio/pull/8](https://github.com/eellak/clio/pull/8)
+	3. Got started with Work on server to allow creation of components
+    * ##### Next Steps
+	1. Work on server to allow creation of components
