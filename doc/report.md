@@ -177,3 +177,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	3. Got started with Work on server to allow creation of components
     * ##### Next Steps
 	1. Work on server to allow creation of components
+26. #### May 30, 2018
+    * ##### Worked on
+	1. Flask server to allow creation of components - [https://github.com/gopuvenkat/clio/tree/create-component](https://github.com/gopuvenkat/clio/tree/create-component)
+    * ##### Next Steps
+	1. Cleanup repository
