@@ -182,3 +182,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Flask server to allow creation of components - [https://github.com/gopuvenkat/clio/tree/create-component](https://github.com/gopuvenkat/clio/tree/create-component)
     * ##### Next Steps
 	1. Cleanup repository
+27. #### May 31, 2018
+    * ##### Worked on
+	1. Pull Request #9 - Create component : [https://github.com/eellak/clio/pull/9](https://github.com/eellak/clio/pull/9)
+    * ##### Next Steps
+	1. Cleanup repository
