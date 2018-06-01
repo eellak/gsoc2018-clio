@@ -187,3 +187,11 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Pull Request #9 - Create component : [https://github.com/eellak/clio/pull/9](https://github.com/eellak/clio/pull/9)
     * ##### Next Steps
 	1. Cleanup repository
+28. #### June 1, 2018
+    * ##### Worked on
+	1. Close Pull Request [#9](https://github.com/eellak/clio/pull/9)
+	2. Create Pull Request [#10](https://github.com/eellak/clio/pull/10)
+	3. Cleanup repository
+	4. Read about form - Semantic UI
+    * ##### Next Steps
+	1. Read about form - Semantic UI
