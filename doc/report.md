@@ -195,3 +195,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	4. Read about form - Semantic UI
     * ##### Next Steps
 	1. Read about form - Semantic UI
+29. #### June 2, 2018
+    * ##### Worked on
+	1. Read more about Semantic UI
+	2. Update blog
+    * ##### Next Steps
+	1. Get started with the setup of Flask server to allow updation of components
