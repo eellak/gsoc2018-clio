@@ -200,4 +200,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Read more about Semantic UI
 	2. Update blog
     * ##### Next Steps
-	1. Get started with the setup of Flask server to allow updation of components
+	1. Get started with the setup of Flask server to allow update of components
+30. #### June 3, 2018
+    * ##### Worked on
+	1. Flask server to allow update of components
+	2. Discuss about export feature
+    * ##### Next Steps
+	1. Work on Flask server
