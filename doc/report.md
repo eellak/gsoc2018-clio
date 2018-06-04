@@ -207,3 +207,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Discuss about export feature
     * ##### Next Steps
 	1. Work on Flask server
+31, #### June 4, 2018
+    * ##### Worked on
+	1. Work on UI to allow update of components : branch - [update-component](https://github.com/gopuvenkat/clio/tree/update-component)
+    * ##### Next Steps
+	1. Work on the Flask server to handle the requests from the front-end
