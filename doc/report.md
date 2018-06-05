@@ -212,3 +212,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Work on UI to allow update of components : branch - [update-component](https://github.com/gopuvenkat/clio/tree/update-component)
     * ##### Next Steps
 	1. Work on the Flask server to handle the requests from the front-end
+32. #### June 5, 2018
+    * ##### Worked on
+	1. Flask server - migrate validation to specification.py
+    * ##### Next Steps
+	1. Work on the Flask server to handle the input from the update form.
