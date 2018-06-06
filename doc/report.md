@@ -217,3 +217,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Flask server - migrate validation to specification.py
     * ##### Next Steps
 	1. Work on the Flask server to handle the input from the update form.
+33. #### June 6, 2018
+    * ##### Worked on
+	1. Flask server to handle the input from the update form.
+    * ##### Next Steps
+	1. Cleanup
+	2. Raise pull request
