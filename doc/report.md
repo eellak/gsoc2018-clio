@@ -207,7 +207,7 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Discuss about export feature
     * ##### Next Steps
 	1. Work on Flask server
-31, #### June 4, 2018
+31. #### June 4, 2018
     * ##### Worked on
 	1. Work on UI to allow update of components : branch - [update-component](https://github.com/gopuvenkat/clio/tree/update-component)
     * ##### Next Steps
@@ -223,3 +223,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * ##### Next Steps
 	1. Cleanup
 	2. Raise pull request
+34. #### June 7, 2018
+    * ##### Worked on
+	1. Raise pull request [#11](https://github.com/eellak/clio/pull/11/)
+	2. Cleanup
+	3. Update Flask version to 1.0.2
+    * ##### Next Steps
+	1. Read about sphinx
