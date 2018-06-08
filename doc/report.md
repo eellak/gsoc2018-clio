@@ -230,3 +230,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	3. Update Flask version to 1.0.2
     * ##### Next Steps
 	1. Read about sphinx
+35. #### June 8, 2018
+    * ##### Worked on
+	1. Merge pull request [#11](https://github.com/eellak/clio/pull/11/)
+	2. Open issues [#12](https://github.com/eellak/clio/issues/12) and [#13](https://github.com/eellak/clio/issues/13)
+    * ##### Next Steps
+	1. Work on the open issues
