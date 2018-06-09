@@ -236,3 +236,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Open issues [#12](https://github.com/eellak/clio/issues/12) and [#13](https://github.com/eellak/clio/issues/13)
     * ##### Next Steps
 	1. Work on the open issues
+36. #### June 9, 2018
+    * ##### Worked on
+	1. Issue [#5](https://github.com/eellak/clio/issues/5)
+	2. Raise Pull Request [#15](https://github.com/eellak/clio/pull/15) against the Issue [#13](https://github.com/eellak/clio/issues/13)
+    * ##### Next Steps
+	1. Raise Pull Request against Issue [#5](https://github.com/eellak/clio/issues/5)
