@@ -242,3 +242,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Raise Pull Request [#15](https://github.com/eellak/clio/pull/15) against the Issue [#13](https://github.com/eellak/clio/issues/13)
     * ##### Next Steps
 	1. Raise Pull Request against Issue [#5](https://github.com/eellak/clio/issues/5)
+37. #### June 10, 2018
+    * ##### Worked on
+	1. Raise Pull Request [#16](https://github.com/eellak/clio/pull/16) and hence fixing Issue [#5](https://github.com/eellak/clio/issues/5)
+	2. Update Wiki page : GSoC 2018 - [https://github.com/eellak/gsoc2018-clio/wiki/GSoC-2018](https://github.com/eellak/gsoc2018-clio/wiki/GSoC-2018)
+    * ##### Next Steps
+	1. Update blog
+	2. Update Wiki
