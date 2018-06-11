@@ -249,3 +249,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * ##### Next Steps
 	1. Update blog
 	2. Update Wiki
+38. #### June 11, 2018
+    * ##### Worked on
+	1. Update blog
+	2. Get started with create license page.
+    * ##### Next Steps
+	1. Work on create license page.
