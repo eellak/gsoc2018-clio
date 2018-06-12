@@ -255,3 +255,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Get started with create license page.
     * ##### Next Steps
 	1. Work on create license page.
+39. #### June 12, 2018
+    * ##### Worked on
+	1. UI of the create license page.
+    * ##### Next Steps
+	2. Start work on the front-end back-end integration.
