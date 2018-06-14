@@ -260,3 +260,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. UI of the create license page.
     * ##### Next Steps
 	2. Start work on the front-end back-end integration.
+40. #### June 13, 2018
+    * ##### Worked on
+	1. Flask server to handle the input from the front end.
+    * ##### Next steps
+	1. Discuss validation on entries recieved from the front end.
+	2. Update based on discussion.
+	3. Raise pull request.
