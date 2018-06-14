@@ -267,3 +267,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Discuss validation on entries recieved from the front end.
 	2. Update based on discussion.
 	3. Raise pull request.
+41. #### June 14, 2018
+    * ##### Worked on
+	1. Raise PR - Create license.
+    * ##### Next Steps
+	1. Work on issue [#12](https://github.com/eellak/clio/issues/12)
