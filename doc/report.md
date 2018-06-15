@@ -272,3 +272,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Raise PR - Create license.
     * ##### Next Steps
 	1. Work on issue [#12](https://github.com/eellak/clio/issues/12)
+42. #### June 15, 2018
+    * ##### Worked on
+	1. Issue [#12](https://github.com/eellak/clio/issues/12)
+    * #### Next Steps
+	1. Cleanup
