@@ -283,10 +283,17 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Raise PR[#18](https://github.com/eellak/clio/pull/18)
     * ##### Next Steps
 	1. Update blog
-44. #### June 16, 2018
+44. #### June 17, 2018
     * ##### Worked on
 	1. Update blog
 	2. Presentation
     * ##### Next Steps
 	1. Get Started with update license feature
 	2. Work on presentation
+45. #### June 18, 2018
+    * ##### Worked on
+	1. Flask server to permit update license feature
+	2. Create update license page
+	3. Merge PR[#18](https://github.com/eellak/clio/pull/18)
+    * ##### Next Steps
+	1. Create license information update page
