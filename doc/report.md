@@ -303,3 +303,11 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Raise PR[#19](https://github.com/eellak/clio/pull/19)
     * ##### Next Steps
 	1. Work on flask server to handle the input coming from the front-end
+47. #### June 20, 2018
+    * ##### Worked on
+	1. Raise PR[#21](https://github.com/eellak/clio/pull/21)
+	2. Raise PR[#22](https://github.com/eellak/clio/pull/22)
+	3. Issue [#20](https://github.com/eellak/clio/issues/20)
+    * ##### Next Steps
+	1. Update PR[#19](https://github.com/eellak/clio/pull/19)
+	2. Work on presentation
