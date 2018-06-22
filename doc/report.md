@@ -319,3 +319,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	4. Merge PR[#22](https://github.com/eellak/clio/pull/22)
     * ##### Next Steps
 	1. Work on presentation
+49. #### June 22, 2018
+    * ##### Worked on
+	1. Work on the presentation
+	2. Merge PR[#22](https://github.com/eellak/clio/pull/22)
+	3. Close Issue[#20](https://github.com/eellak/clio/issues/20)
+    * ##### Next Steps
+	1. Work on the presentation
