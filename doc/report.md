@@ -326,3 +326,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	3. Close Issue[#20](https://github.com/eellak/clio/issues/20)
     * ##### Next Steps
 	1. Work on the presentation
+50. #### June 23, 2018
+    * Worked on
+	1. Work on presentation
+	2. Read about Semantic UI form
+    * Next Steps
+	1. Update blog
+	2. Work on presentation
