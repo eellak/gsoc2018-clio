@@ -333,3 +333,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Update blog
 	2. Work on presentation
+51. #### June 24, 2018
+    * Worked on
+	1. Presentation
+    * Next Steps
+	1. Get started with product creation
