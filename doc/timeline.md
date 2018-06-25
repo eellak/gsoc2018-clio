@@ -29,10 +29,10 @@
 - [x] Get started with the setup of the Flask server to permit creation of licenses.
 
 ### Week 6 (June 18 - June 24)
-- [ ] Complete the setup of the Flask server to permit creation of licenses.
-- [ ] Work on the Flask server to the provide update feature of licenses.
-- [ ] Update the frontend of the application to incorporate this feature.
-- [ ] By the end of the week both create and update feature of licenses would be implemented.
+- [x] Complete the setup of the Flask server to permit creation of licenses.
+- [x] Work on the Flask server to the provide update feature of licenses.
+- [x] Update the frontend of the application to incorporate this feature.
+- [x] By the end of the week both create and update feature of licenses would be implemented.
 
 ### Week 7 (June 25 - July 1)
 - [ ] Work on the Flask server to permit creation of products.
