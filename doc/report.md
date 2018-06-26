@@ -345,3 +345,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Prepare for presentation
 	2. Work on create product feature
+53. #### June 26, 2018
+    * Worked on
+	1. Presentation
+	2. Add create product page
+    * Next Steps
+	1. Prepare for presentation
