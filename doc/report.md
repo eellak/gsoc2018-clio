@@ -351,10 +351,16 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Add create product page
     * Next Steps
 	1. Prepare for presentation
-54. #### June 26, 2018
+54. #### June 27, 2018
     * Worked on
 	1. Attend Athens FLOSS meetup
 	2. Remove selection from checkbox after clone
 	3. Discuss about PR[#19](https://github.com/eellak/clio/pull/19)
     * Next Steps
 	1. Work on the Flask server to handle the inputs
+55. #### June 28, 2018
+    * Worked on 
+	1. Add utility functions to handle input from the frontend
+    * Next Steps
+	1. Handle the incoming request at the backend
+	2. Raise Pull Request
