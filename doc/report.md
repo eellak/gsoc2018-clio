@@ -364,3 +364,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Handle the incoming request at the backend
 	2. Raise Pull Request
+56. #### June 29, 2018
+    * Worked on
+	1. Handle the incoming request
+	2. Raise Pull Request [#23](https://github.com/eellak/clio/pull/23)
+    * Next Steps
+	1. Update blog
