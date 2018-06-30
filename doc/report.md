@@ -370,3 +370,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Raise Pull Request [#23](https://github.com/eellak/clio/pull/23)
     * Next Steps
 	1. Update blog
+57. #### June 30, 2018
+    * Worked on
+	1. Update blog
+    * Next Steps
+	1. Get Started with update product feature
