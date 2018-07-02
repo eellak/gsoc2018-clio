@@ -35,8 +35,8 @@
 - [x] By the end of the week both create and update feature of licenses would be implemented.
 
 ### Week 7 (June 25 - July 1)
-- [ ] Work on the Flask server to permit creation of products.
-- [ ] Update the frontend of the application to incorporate this feature.
+- [x] Work on the Flask server to permit creation of products.
+- [x] Update the frontend of the application to incorporate this feature.
 
 ### Week 8 (July 2 - July 8)
 - [ ] Work on the Flask server to the provide update feature of products.
