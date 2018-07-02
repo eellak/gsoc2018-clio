@@ -375,3 +375,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Update blog
     * Next Steps
 	1. Get Started with update product feature
+58. #### July 2, 2018
+    * Worked on
+	1. Started off with update product feature
+    * Next Steps
+	1. Work on update product feature
