@@ -380,3 +380,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Started off with update product feature
     * Next Steps
 	1. Work on update product feature
+59. #### July 3, 2018
+    * Worked on
+	1. Move the component selection div to seperate template.
+	2. Fix the UI of the searchable license dropdown. 
+    * Next Steps
+	1. Setup up the update product information page.
+	2. Handle the input at the Flask server.
