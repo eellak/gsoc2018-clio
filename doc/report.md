@@ -387,3 +387,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Setup up the update product information page.
 	2. Handle the input at the Flask server.
+60. #### July 4, 2018
+    * Worked on
+	1. Setup the update product information page.
+    * Next Steps
+	2. Handle the input at the Flask server.
