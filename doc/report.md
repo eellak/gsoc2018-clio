@@ -391,4 +391,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Worked on
 	1. Setup the update product information page.
     * Next Steps
-	2. Handle the input at the Flask server.
+	1. Handle the input at the Flask server.
+61. #### July 5, 2018
+    * Worked on
+	1. Handle the input at the Flask server.
+	2. Raise Pull Request [#24](https://github.com/eellak/clio/pull/24)
+    * Next Steps
+	1. Document the work done.
