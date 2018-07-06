@@ -398,3 +398,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Raise Pull Request [#24](https://github.com/eellak/clio/pull/24)
     * Next Steps
 	1. Document the work done.
+62. #### July 6, 2018
+    * Worked on
+	1. Merge Pull Request [#24](https://github.com/eellak/clio/pull/24)
+	2. Discuss about export information feature
+	3. Work on the Wiki page
+    * Next Steps
+	1. Work on the wiki page
