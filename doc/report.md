@@ -405,3 +405,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	3. Work on the Wiki page
     * Next Steps
 	1. Work on the wiki page
+63. #### July 7, 2018
+    * Worked on
+	1. Raise Pull Request [#25](https://github.com/eellak/clio/pull/25)
+    * Next Steps
+	1. Work on the wiki page
+	2. Update blog
