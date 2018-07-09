@@ -411,3 +411,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Work on the wiki page
 	2. Update blog
+64. #### July 9, 2018
+    * Worked on
+	1. Update Wiki page
+	2. Update blog
+    * Next Steps
+	1. Get started with reading about LDAP authentication
