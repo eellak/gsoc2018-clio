@@ -39,9 +39,9 @@
 - [x] Update the frontend of the application to incorporate this feature.
 
 ### Week 8 (July 2 - July 8)
-- [ ] Work on the Flask server to the provide update feature of products.
-- [ ] Update the frontend of the application to incorporate this feature.
-- [ ] By the end of the week both create and update feature of products would be implemented.
+- [x] Work on the Flask server to the provide update feature of products.
+- [x] Update the frontend of the application to incorporate this feature.
+- [x] By the end of the week both create and update feature of products would be implemented.
 
 ### Week 9 (July 9 - July 15)
 - [ ] Write the documentation summary of the work done till now.
