@@ -417,3 +417,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Update blog
     * Next Steps
 	1. Get started with reading about LDAP authentication
+65. #### July 10, 2018
+    * Worked on
+	1. Setup LDAP server
+	2. Read about [flask-simpleldap](https://github.com/admiralobvious/flask-simpleldap)
+    * Next Steps
+	1. Look into user authentication
