@@ -423,3 +423,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Read about [flask-simpleldap](https://github.com/admiralobvious/flask-simpleldap)
     * Next Steps
 	1. Look into user authentication
+66. #### July 11, 2018
+    * Worked on
+	1. Read about basic_auth in `flask-simpleldap`
+	2. Discuss about the same with mentors.
+    * Next Steps
+	1. Continue reading about this tool
