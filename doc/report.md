@@ -429,3 +429,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Discuss about the same with mentors.
     * Next Steps
 	1. Continue reading about this tool
+67. #### July 12, 2018
+    * Worked on
+	1. Discuss about Pull Request [#25](https://github.com/eellak/clio/pull/25)
+	2. Discuss about LDAP Authentication
+    * Next Steps
+	1. Refer the links provided by the mentors
