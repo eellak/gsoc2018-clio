@@ -435,3 +435,11 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Discuss about LDAP Authentication
     * Next Steps
 	1. Refer the links provided by the mentors
+68. #### July 13, 2018
+    * Worked on
+	1. Merge Pull Request [#25](https://github.com/eellak/clio/pull/25)
+	2. Go through the links provided the mentors.
+    * Next Steps
+	1. Update blog
+	2. Finalize the approach to implement LDAP authorization
+	3. Get started with the implementation
