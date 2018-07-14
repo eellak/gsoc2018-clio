@@ -443,3 +443,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Update blog
 	2. Finalize the approach to implement LDAP authorization
 	3. Get started with the implementation
+69. #### July 14, 2018
+    * Worked on
+	1. Got started with the implementation of LDAP authorization
+    * Next Steps
+	1. Work on LDAP authorization
+	2. Update blog
