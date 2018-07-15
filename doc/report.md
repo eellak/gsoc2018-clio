@@ -449,3 +449,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Work on LDAP authorization
 	2. Update blog
+70. #### July 15, 2018
+    * Worked on
+	1. LDAP authentication
+	2. Update blog
+    * Next Steps
+	1. Work on LDAP authentication
+	2. Raise PR against the same
