@@ -44,9 +44,9 @@
 - [x] By the end of the week both create and update feature of products would be implemented.
 
 ### Week 9 (July 9 - July 15)
-- [ ] Write the documentation summary of the work done till now.
-- [ ] Complete reading about LDAP authentication for accounts and permission.
-- [ ] Get started with LDAP authentication for accounts and permission.
+- [x] Write the documentation summary of the work done till now.
+- [x] Complete reading about LDAP authentication for accounts and permission.
+- [x] Get started with LDAP authentication for accounts and permission.
 
 ### Week 10 (July 16 - July 22)
 - [ ] Work on LDAP authentication for accounts and permission.
