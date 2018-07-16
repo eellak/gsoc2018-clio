@@ -456,3 +456,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Work on LDAP authentication
 	2. Raise PR against the same
+71. #### July 16, 2018
+    * Worked on
+	1. Work on LDAP authentication
+	2. Raise the PR against the same
+    * Next Steps
+	1. Learn about the protocol and directory level access implementation
+	2. Update the raised PR (if required)
