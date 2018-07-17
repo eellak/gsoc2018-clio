@@ -463,3 +463,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Learn about the protocol and directory level access implementation
 	2. Update the raised PR (if required)
+72. #### July 17, 2018
+    * Worked on
+	1. Read about the LDAP protocol
+	2. Discuss about the raised PR
+    * Next Steps
+	1. Read more about the protocol
+	2. Update the PR (if required)
