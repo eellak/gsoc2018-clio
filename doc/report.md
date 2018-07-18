@@ -470,3 +470,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Read more about the protocol
 	2. Update the PR (if required)
+73. #### July 18, 2018
+    * Worked on
+	1. Set login failure notification in PR[#26](https://github.com/eellak/clio/pull/25)
+	2. Read more about LDAP
+    * Next Steps
+	1. Work on the raised PR (if required)
+	2. Read about the protocol
