@@ -472,8 +472,15 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Update the PR (if required)
 73. #### July 18, 2018
     * Worked on
-	1. Set login failure notification in PR[#26](https://github.com/eellak/clio/pull/25)
+	1. Set login failure notification in PR[#26](https://github.com/eellak/clio/pull/26)
 	2. Read more about LDAP
     * Next Steps
 	1. Work on the raised PR (if required)
 	2. Read about the protocol
+74. #### July 19, 2018
+    * Worked on
+	1. Merge PR[#26](https://github.com/eellak/clio/pull/26)
+	2. Discuss with mentor about future steps
+	3. Read about group permissions in LDAP
+    * Next Steps
+	1. Get started with exploration of implementing group permission
