@@ -484,3 +484,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	3. Read about group permissions in LDAP
     * Next Steps
 	1. Get started with exploration of implementing group permission
+75. #### July 20, 2018
+    * Worked on
+	1. Group permission and LDAP authentication - [https://gist.github.com/gopuvenkat/6950a19581eca4e1fea8a7028f3777b8](https://gist.github.com/gopuvenkat/6950a19581eca4e1fea8a7028f3777b8)
+    * Next Steps
+	1. Identify users in LDAP groups from the Flask server
