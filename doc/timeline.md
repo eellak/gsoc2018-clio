@@ -49,7 +49,7 @@
 - [x] Get started with LDAP authentication for accounts and permission.
 
 ### Week 10 (July 16 - July 22)
-- [ ] Work on LDAP authentication for accounts and permission.
+- [x] Work on LDAP authentication for accounts and permission.
 
 ### Week 11 (July 23 - July 29)
 - [ ] Complete LDAP authentication.
