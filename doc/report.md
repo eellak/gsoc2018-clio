@@ -494,3 +494,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Setup group configuration
     * Next Steps
 	1. Fix associated errors
+77. #### July 22, 2018
+    * Worked on
+	1. Fix error associated with LDAP users and groups.
+	2. Raise and merge PR[#27](https://github.com/eellak/clio/pull/27)
+    * Next Steps
+	1. Work on product ownersip - The owner of the product should be allowed to edit it, besides the special LDAP group(s).
