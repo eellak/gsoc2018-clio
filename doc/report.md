@@ -500,3 +500,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Raise and merge PR[#27](https://github.com/eellak/clio/pull/27)
     * Next Steps
 	1. Work on product ownersip - The owner of the product should be allowed to edit it, besides the special LDAP group(s).
+78. #### July 23, 2018
+    * Worked on
+	1. Got started with product ownership.
+    * Next Steps
+	1. Ensure login if user is anonymous.
+	2. Raise PR against the same.
