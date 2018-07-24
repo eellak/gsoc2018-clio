@@ -506,3 +506,12 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Ensure login if user is anonymous.
 	2. Raise PR against the same.
+79. #### July 24, 2018
+    * Worked on
+	1. Login view rendered only if the user is not authenticated.
+	2. Update import - Error fix
+	3. Maintain the created_by/owner attribute.
+	4. Raise PR[#28](https://github.com/eellak/clio/pull/28) against product ownership.
+    * Next Steps
+	1. Update PR (if required)
+	2. Get started with cleanup of the Clio repository.
