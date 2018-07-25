@@ -515,3 +515,11 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Update PR (if required)
 	2. Get started with cleanup of the Clio repository.
+80. #### July 25, 2018
+    * Worked on
+	1. Merge PR[#28](https://github.com/eellak/clio/pull/28)
+	2. Move css and js to external files
+	3. Templatize success and error messages
+	4. Maintain created_by and owner attributes
+    * Next Steps
+	1. Add/Update docstrings
