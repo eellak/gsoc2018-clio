@@ -523,3 +523,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	4. Maintain created_by and owner attributes
     * Next Steps
 	1. Add/Update docstrings
+81. #### July 26, 2018
+    * Worked on
+	1. Add docstrings
+	2. Raise PR[#29](https://github.com/eellak/clio/pull/29)
+    * Next Steps
+	1. Prep for deployment/release
