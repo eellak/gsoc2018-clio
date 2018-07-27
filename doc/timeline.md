@@ -52,7 +52,7 @@
 - [x] Work on LDAP authentication for accounts and permission.
 
 ### Week 11 (July 23 - July 29)
-- [ ] Complete LDAP authentication.
+- [x] Complete LDAP authentication.
 
 ### Week 12 (July 30 - August 5)
 - [ ] Write the documentation summary of the work done till now.
