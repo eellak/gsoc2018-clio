@@ -529,3 +529,11 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Raise PR[#29](https://github.com/eellak/clio/pull/29)
     * Next Steps
 	1. Prep for deployment/release
+82. #### July 26, 2018
+    * Worked on
+	1. Merge PR[#29](https://github.com/eellak/clio/pull/29)
+	2. Get access to VM for deployment.
+	3. Started with installation of tools on the VM.
+    * Next Steps
+	1. Update blog
+	2. Work towards deployment
