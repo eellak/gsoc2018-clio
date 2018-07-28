@@ -537,3 +537,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Update blog
 	2. Work towards deployment
+83. #### July 27, 2018
+    * Worked on
+	1. Update Wiki page
+	2. Read about passenger + nginx configuration for deployment.
+    * Next Steps
+	1. Work on documentation
+	2. Work on deployment
