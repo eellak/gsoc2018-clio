@@ -529,7 +529,7 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Raise PR[#29](https://github.com/eellak/clio/pull/29)
     * Next Steps
 	1. Prep for deployment/release
-82. #### July 26, 2018
+82. #### July 27, 2018
     * Worked on
 	1. Merge PR[#29](https://github.com/eellak/clio/pull/29)
 	2. Get access to VM for deployment.
@@ -537,10 +537,16 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Update blog
 	2. Work towards deployment
-83. #### July 27, 2018
+83. #### July 28, 2018
     * Worked on
 	1. Update Wiki page
 	2. Read about passenger + nginx configuration for deployment.
     * Next Steps
 	1. Work on documentation
 	2. Work on deployment
+84. #### July 29, 2018
+    * Worked on
+	1. Host the application.
+	2. Work on seeding the database.
+    * Next Steps
+	1. Host the application.
