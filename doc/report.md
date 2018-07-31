@@ -544,9 +544,16 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
     * Next Steps
 	1. Work on documentation
 	2. Work on deployment
-84. #### July 29, 2018
+84. #### July 30, 2018
     * Worked on
 	1. Host the application.
 	2. Work on seeding the database.
     * Next Steps
 	1. Host the application.
+85. #### July 31, 2018
+    * Worked on
+	1. Deployed the application - [http://snf-831091.vm.okeanos.grnet.gr/](http://snf-831091.vm.okeanos.grnet.gr/)
+	2. Raise and merge PR[#30](https://github.com/eellak/clio/pull/30), PR[#31](https://github.com/eellak/clio/pull/31) and PR[#32](https://github.com/eellak/clio/pull/32)
+    * Next Steps
+	1. Get started on documentation.
+	2. Fix issues (if any)
