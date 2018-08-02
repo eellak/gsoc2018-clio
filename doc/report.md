@@ -562,3 +562,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Started off with sphinx auto-doc
     * Next Steps
 	1. Work on documentation.
+87. #### August 2, 2018
+    * Worked on
+	1. Work on documentation.
+    * Next Steps
+	1. Update repository.
