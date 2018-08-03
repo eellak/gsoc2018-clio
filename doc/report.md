@@ -567,3 +567,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Work on documentation.
     * Next Steps
 	1. Update repository.
+88. #### August 3, 2018
+    * Worked on
+	1. Update SPDX license list.
+	2. Built sphinx documentation.
+    * Next Steps
+	1. Work on documentation.
