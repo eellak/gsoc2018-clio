@@ -27,6 +27,17 @@ Clio is a web based system for maintaining (meta-)information on software compon
 * **Database** : MySQL
 * **Front end tools** : HTML, CSS, JavaScript
 
+### Google Summer of Code - 2018
+
+**Student** : Gopalakrishan.V ([@gopuvenkat](https://github.com/gopuvenkat))
+
+**Mentors**
+
+* Alexios Zavras ([@zvr](https://github.com/zvr))
+* Georgia Kapitsaki ([@gkapi](https://github.com/gkapi))
+
+**Organisation** : [GFOSS - Open Technologies Alliance](https://gfoss.eu/)
+
 ### Work done
 
 The basic implementation of the Clio project resides at [eellak/clio](https://github.com/eellak/clio) and the project is live at [http://snf-831091.vm.okeanos.grnet.gr/](http://snf-831091.vm.okeanos.grnet.gr/).
@@ -47,4 +58,4 @@ Top-level directory doc at [https://github.com/eellak/gsoc2018-clio/blob/master/
 
 For real time collaboration, we use a dedicated zulip at [http://clio.zulipchat.com](http://clio.zulipchat.com)
 
-**A big thanks to all my mentors ([Alexious Zavras](https://github.com/zvr) and [Georgia Kapitsaki](https://github.com/gkapi)) and my admin ([Kalfakakou Gratsiella](https://github.com/GratsiellaKalf)) for helping me improve my communication and programming skills during the GSoC period. It had been  a great experience for the past 3 months working together and hope to work on this project further and see it to completion!**
+**A big thanks to all my mentors ([Alexios Zavras](https://github.com/zvr) and [Georgia Kapitsaki](https://github.com/gkapi)) and my admin ([Kalfakakou Gratsiella](https://github.com/GratsiellaKalf)) for helping me improve my communication and programming skills during the GSoC period. It had been  a great experience for the past 3 months working together and hope to work on this project further and see it to completion!**
