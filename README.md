@@ -1,6 +1,6 @@
 # Clio
 
-Clio is a web based system for maintaining (meta-)information on software components. The software will be published at [eellak/clio](https://github.com/eellak/clio)
+Clio is a web based system for maintaining (meta-)information on software components. The software will be published at [eellak/clio](https://github.com/eellak/clio).
 
 * **Task/Target**
 
@@ -27,6 +27,18 @@ Clio is a web based system for maintaining (meta-)information on software compon
 * **Database** : MySQL
 * **Front end tools** : HTML, CSS, JavaScript
 
+### Work done
+
+The basic implementation of the Clio project resides at [eellak/clio](https://github.com/eellak/clio) and the project is live at [http://snf-831091.vm.okeanos.grnet.gr/](http://snf-831091.vm.okeanos.grnet.gr/).
+
+All the commits I've sent to this project can be viewed here : Commits by [@gopuvenkat](https://github.com/eellak/clio/commits?author=gopuvenkat). To look into my weekly progress, please refer my personnel [blog](https://gopuvenkat.github.io/).
+
+### Future Work
+
+* Setup tests.
+* Dockerize the application.
+* Setup continuous integration.
+
 ## Repository Structure
 
 Top-level directory doc at [https://github.com/eellak/gsoc2018-clio/blob/master/doc/report.md](https://github.com/eellak/gsoc2018-clio/blob/master/doc/report.md) is where the notes, progress reports, etc are maintained.
@@ -34,3 +46,5 @@ Top-level directory doc at [https://github.com/eellak/gsoc2018-clio/blob/master/
 ## Collaborating
 
 For real time collaboration, we use a dedicated zulip at [http://clio.zulipchat.com](http://clio.zulipchat.com)
+
+**A big thanks to all my mentors ([Alexious Zavras](https://github.com/zvr) and [Georgia Kapitsaki](https://github.com/gkapi)) and my admin ([Kalfakakou Gratsiella](https://github.com/GratsiellaKalf)) for helping me improve my communication and programming skills during the GSoC period. It had been  a great experience for the past 3 months working together and hope to work on this project further and see it to completion!**

@@ -573,3 +573,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Built sphinx documentation.
     * Next Steps
 	1. Work on documentation.
+89. #### August 4, 2018
+    * Worked on
+	1. Update Wiki page.
+	2. Update README
+    * Next Steps
+	1. Link documentation files.
