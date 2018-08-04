@@ -27,6 +27,8 @@ Clio is a web based system for maintaining (meta-)information on software compon
 * **Database** : MySQL
 * **Front end tools** : HTML, CSS, JavaScript
 
+*Note : The installation instructions can be found at [this](https://github.com/eellak/gsoc2018-clio/wiki/Installation) Wiki page.
+
 ### Google Summer of Code - 2018
 
 **Student** : Gopalakrishan.V ([@gopuvenkat](https://github.com/gopuvenkat))
@@ -40,7 +42,7 @@ Clio is a web based system for maintaining (meta-)information on software compon
 
 ### Work done
 
-The basic implementation of the Clio project resides at [eellak/clio](https://github.com/eellak/clio) and the project is live at [http://snf-831091.vm.okeanos.grnet.gr/](http://snf-831091.vm.okeanos.grnet.gr/).
+The basic implementation of the Clio project resides at [eellak/clio](https://github.com/eellak/clio) and the project is live at [http://snf-831091.vm.okeanos.grnet.gr/](http://snf-831091.vm.okeanos.grnet.gr/). Please pay a visit to the [Final Report](https://gist.github.com/gopuvenkat/d8433e5ed78a67e0b114db69ce675235).
 
 All the commits I've sent to this project can be viewed here : Commits by [@gopuvenkat](https://github.com/eellak/clio/commits?author=gopuvenkat). To look into my weekly progress, please refer my personnel [blog](https://gopuvenkat.github.io/).
 
