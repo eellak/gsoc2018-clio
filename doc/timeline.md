@@ -55,8 +55,8 @@
 - [x] Complete LDAP authentication.
 
 ### Week 12 (July 30 - August 5)
-- [ ] Write the documentation summary of the work done till now.
-- [ ] Upload the documentation.
+- [x] Write the documentation summary of the work done till now.
+- [x] Upload the documentation.
 
 ### Submission (August 6 - August 12)
 - [ ] Submission of final work and final mentor evaluation.
