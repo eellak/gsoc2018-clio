@@ -579,3 +579,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Update README
     * Next Steps
 	1. Link documentation files.
+90. #### August 5, 2018
+    * Worked on
+	1. Update blog.
+	2. Link documentation files.
+    * Next Steps
+	1. Seed more data into Component relation.
