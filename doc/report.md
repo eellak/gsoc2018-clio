@@ -585,3 +585,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Link documentation files.
     * Next Steps
 	1. Seed more data into Component relation.
+91. #### August 6, 2018
+    * Worked on
+	1. Add list of debian packages into the set of components.
+	2. Set number of rows in table.
+    * Next Steps
+	1. Look into load on demand in datatables.
