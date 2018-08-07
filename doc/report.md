@@ -591,3 +591,10 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Set number of rows in table.
     * Next Steps
 	1. Look into load on demand in datatables.
+92. #### August 7, 2018
+    * Worked on
+	1. Setup sphinx documentation on VM - [http://snf-831091.vm.okeanos.grnet.gr/doc/](http://snf-831091.vm.okeanos.grnet.gr/doc/)
+	2. Serve static files through nginx for optimal performance.
+	3. Update copywright in sphinx documentation.
+    * Next Steps
+	1. Read about datatables on demand loading.
