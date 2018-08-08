@@ -598,3 +598,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	3. Update copywright in sphinx documentation.
     * Next Steps
 	1. Read about datatables on demand loading.
+93. #### August 8, 2018
+    * Worked on
+	1. Read more about Datatables.
+    * Next Steps
+	1. Read on Datatables.
