@@ -603,3 +603,9 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Read more about Datatables.
     * Next Steps
 	1. Read on Datatables.
+94. #### August 9, 2018
+    * Worked on
+	1. Read about Datatables.
+	2. Work on Final report.
+    * Next Steps
+	1. Work on Final report.
