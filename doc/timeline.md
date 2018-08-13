@@ -59,4 +59,4 @@
 - [x] Upload the documentation.
 
 ### Submission (August 6 - August 12)
-- [ ] Submission of final work and final mentor evaluation.
+- [x] Submission of final work and final mentor evaluation.
