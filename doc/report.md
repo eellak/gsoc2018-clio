@@ -609,3 +609,8 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	2. Work on Final report.
     * Next Steps
 	1. Work on Final report.
+95. #### August 12, 2018
+    * Worked on
+	1. Submit final evaluation.
+    * Next Steps
+	1. Discuss about evaluation with the mentors
