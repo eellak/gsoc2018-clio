@@ -614,3 +614,6 @@ Hi! I am Gopalakrishnan, a second year student pursuing Computer Science Enginee
 	1. Submit final evaluation.
     * Next Steps
 	1. Discuss about evaluation with the mentors
+96. #### August 13, 2018
+    * Worked on
+	1. Share VM details with sys-admin - Dimitris Berdekas
