@@ -42,7 +42,7 @@ Clio is a web based system for maintaining (meta-)information on software compon
 
 ### Work done
 
-The basic implementation of the Clio project resides at [eellak/clio](https://github.com/eellak/clio) and the project is live at [http://snf-831091.vm.okeanos.grnet.gr/](http://snf-831091.vm.okeanos.grnet.gr/). Please pay a visit to the [Final Report](https://gist.github.com/gopuvenkat/d8433e5ed78a67e0b114db69ce675235).
+The basic implementation of the Clio project resides at [eellak/clio](https://github.com/eellak/clio) and the project is live at [https://clio.ellak.gr/](https://clio.ellak.gr/). Please pay a visit to the [Final Report](https://gist.github.com/gopuvenkat/d8433e5ed78a67e0b114db69ce675235).
 
 All the commits I've sent to this project can be viewed here : Commits by [@gopuvenkat](https://github.com/eellak/clio/commits?author=gopuvenkat). To look into my weekly progress, please refer my personnel [blog](https://gopuvenkat.github.io/).
 
