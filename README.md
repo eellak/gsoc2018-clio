@@ -1,6 +1,6 @@
 # Clio
 
-Clio is a web based system for maintaining (meta-)information on software components. The software will be published at [eellak/clio](https://github.com/eellak/clio).
+Clio is a web based system for maintaining (meta-)information on software components. The software is published at [eellak/clio](https://clio.ellak.gr/).
 
 * **Task/Target**
 
